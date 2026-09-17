@@ -7,7 +7,7 @@ Static prototype for a permanent memorial site and private memory-submission por
 - The public-facing prototype is dependency-free HTML/CSS/JS and suitable for GitHub Pages.
 - The four supplied photos are included as local assets.
 - The career section uses selected quotations verified against the supplied UBC source documents.
-- The memory form sends private submissions to `toddzim+ge@gmail.com` through FormSubmit; email delivery provides the private saved record and nothing is published automatically.
+- The memory form sends private submissions to `toddzim+ge@gmail.com` through FormSubmit; email delivery provides the private saved record and nothing is published automatically. It accepts multiple optional JPG, PNG, or WebP photos up to 10 MB total.
 
 ## Next implementation decision
 
