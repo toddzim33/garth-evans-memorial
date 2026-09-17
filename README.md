@@ -7,8 +7,8 @@ Static prototype for a permanent memorial site and private memory-submission por
 - The public-facing prototype is dependency-free HTML/CSS/JS and suitable for GitHub Pages.
 - The four supplied photos are included as local assets.
 - The career section uses selected quotations verified against the supplied UBC source documents.
-- The memory form is intentionally non-functional in this prototype. It does not transmit or store submissions.
+- The memory form sends private submissions to `toddzim+ge@gmail.com` through FormSubmit; email delivery provides the private saved record and nothing is published automatically.
 
 ## Next implementation decision
 
-Connect the form to a private, bot-protected intake service with manual approval and explicit consent choices for Nancy's book, the memorial site, or both.
+FormSubmit's first submission requires one-time email confirmation. Keep the form's default CAPTCHA protection enabled and review submissions manually before using any memory elsewhere.
