@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Remembering Garth Evans//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:garth-evans-gathering-20261006@rememberinggarth.ca
+DTSTAMP:20260917T000000Z
+DTSTART;TZID=America/Vancouver:20261006T140000
+DURATION:PT2H
+SUMMARY:Gathering for Garth Evans
+LOCATION:Visualization & Emerging Media Studio (VEMS), Commons Building COM 107, UBC Okanagan
+DESCRIPTION:A gathering to remember Garth Evans. No formal end time.
+END:VEVENT
+END:VCALENDAR
